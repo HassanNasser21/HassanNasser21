@@ -1,56 +1,119 @@
-# 👋 Hi, I'm Hassan Nasser
+<!-- ===================== HEADER ===================== -->
 
-### 📱 Flutter Developer | 👨‍🏫 Coding Instructor at iSchool | 💻 Computer Science Graduate
+<div align="center">
 
-I'm a **Flutter Developer and Coding Instructor** passionate about building mobile applications, teaching programming, and continuously improving my software engineering skills.
+<a href="https://github.com/HassanNasser21">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hassan+Nasser+%F0%9F%91%8B;Flutter+Developer+%F0%9F%93%B1;Coding+Instructor+at+iSchool+%F0%9F%91%A8%5D%E2%80%8D%F0%9F%92%BB;Computer+Science+Graduate+%F0%9F%8E%93;Keep+Learning+%E2%80%A2+Keep+Building+%E2%80%A2+Keep+Sharing+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-I graduated from the **Faculty of Computers and Artificial Intelligence, Sohag University**, Department of **Computer Science**.
+<br>
 
-I enjoy turning ideas into real-world applications and helping beginners understand programming through simple explanations and hands-on projects.
+<a href="https://github.com/HassanNasser21">
+<img src="https://komarev.com/ghpvc/?username=HassanNasser21&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</a>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-* 📱 **Flutter Developer** focused on building modern and maintainable mobile applications
-* 👨‍🏫 **Coding Instructor at iSchool**, teaching programming and technology to young learners
-* 🎓 **Computer Science Graduate** – Sohag University
-* 🚀 Former **Head of Flutter Section at Ma'refa** volunteer team
-* 🧑‍🏫 Created and led the team's first **Flutter Camp**
-* 👥 Taught and mentored around **30 students** through Flutter learning activities
-* 🏗️ Interested in **Clean Architecture, Cubit/BLoC, MVVM, and Repository Pattern**
-* 🔌 Experienced in **REST API integration** using Dio
-* 🔥 Worked with **Firebase** and local data persistence
-* 💡 Passionate about **teaching, learning, and building real-world applications**
+I'm a **Flutter Developer and Coding Instructor** passionate about building mobile applications, teaching programming, and continuously improving my software engineering skills.
+
+🎓 I graduated from the **Faculty of Computers and Artificial Intelligence, Sohag University**, Department of **Computer Science**.
+
+👨‍🏫 Currently working as a **Coding Instructor at iSchool**, where I have taught **600+ students** through practical programming sessions and project-based learning.
+
+🚀 I also served as **Head of the Flutter Section at Ma'refa**, where I created and led the team's first Flutter Camp and taught & mentored around **30 students**.
+
+I enjoy transforming ideas into real-world applications while writing clean, maintainable, and scalable code.
+
+---
+
+# 🚀 What I Do
+
+```text
+📱 Mobile Development       → Flutter & Dart
+🏗️ Software Architecture    → Clean Architecture / MVVM
+🧠 State Management         → Cubit / BLoC
+🔌 Backend Integration      → REST APIs / Dio / Firebase
+👨‍🏫 Teaching                → Programming & Flutter
+💡 Problem Solving          → Algorithms & Data Structures
+```
 
 ---
 
 # 🛠️ Tech Stack
 
-### 📱 Mobile Development
+## 📱 Mobile Development
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+<p align="left">
 
-* Flutter
-* Dart
-* Responsive UI
-* Custom Widgets
-* Animations
-* UI/UX Implementation
-* Mobile Application Development
+<a href="https://flutter.dev/">
+<img src="https://skillicons.dev/icons?i=flutter" width="55"/>
+</a>
 
-### 🧠 Architecture & State Management
+<a href="https://dart.dev/">
+<img src="https://skillicons.dev/icons?i=dart" width="55"/>
+</a>
 
-* Cubit / BLoC
-* Clean Architecture
-* MVVM
-* Repository Pattern
-* SOLID Principles
-* Object-Oriented Programming
-* Separation of Concerns
+<a href="https://firebase.google.com/">
+<img src="https://skillicons.dev/icons?i=firebase" width="55"/>
+</a>
 
-### 🔌 Backend & APIs
+</p>
+
+---
+
+## 💻 Programming Languages
+
+<p align="left">
+
+<a href="https://dart.dev/">
+<img src="https://skillicons.dev/icons?i=dart" width="55"/>
+</a>
+
+<a href="https://isocpp.org/">
+<img src="https://skillicons.dev/icons?i=cpp" width="55"/>
+</a>
+
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
+</a>
+
+<a href="https://www.php.net/">
+<img src="https://skillicons.dev/icons?i=php" width="55"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
+</a>
+
+</p>
+
+---
+
+## 🧩 Frameworks & Architecture
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=flutter,firebase,django" />
+
+</p>
+
+### Architecture & State Management
+
+`Cubit / BLoC` • `Clean Architecture` • `MVVM` • `Repository Pattern` • `SOLID`
+
+---
+
+## 🔌 APIs & Backend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=firebase,postman" />
+
+</p>
 
 * REST APIs
 * Dio
@@ -59,26 +122,15 @@ I enjoy turning ideas into real-world applications and helping beginners underst
 * Firebase
 * Shared Preferences
 
-### 💻 Programming & Computer Science
+---
 
-* C++
-* Python
-* Dart
-* SQL
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Operating Systems
-* Computer Networks
-* Linux
+## 🔧 Tools
 
-### 🔧 Tools
+<p align="left">
 
-* Git
-* GitHub
-* VS Code
-* Android Studio
-* Postman
-* Figma
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman,linux" />
+
+</p>
 
 ---
 
@@ -86,7 +138,7 @@ I enjoy turning ideas into real-world applications and helping beginners underst
 
 ## 📖 Islami App
 
-A Flutter application that provides a collection of useful Islamic content through a clean and user-friendly interface.
+A Flutter application that provides useful Islamic content through a clean and user-friendly interface.
 
 ### ✨ Features
 
@@ -136,8 +188,7 @@ A graduation project designed to simplify student attendance using **QR Code tec
 
 A Flutter application for browsing and displaying news through REST API integration.
 
-**Technologies:**
-`Flutter` `Dart` `REST API` `Dio`
+**Technologies:** `Flutter` `Dart` `REST API` `Dio`
 
 ---
 
@@ -145,45 +196,43 @@ A Flutter application for browsing and displaying news through REST API integrat
 
 A Flutter application for exploring and displaying movie information through API integration.
 
-**Technologies:**
-`Flutter` `Dart` `REST API` `Dio`
-
----
-
-## 📱 Contact App
-
-A Flutter application for managing and displaying contacts with a simple and clean mobile interface.
-
-**Technologies:**
-`Flutter` `Dart`
+**Technologies:** `Flutter` `Dart` `REST API` `Dio`
 
 ---
 
 # 👨‍🏫 Teaching & Mentoring
 
-## Coding Instructor — iSchool
+## 🎓 Coding Instructor — iSchool
 
-I'm currently working as a **Coding Instructor at iSchool**, where I help young learners understand programming concepts and develop their technical skills through practical sessions and projects.
+Currently working as a **Coding Instructor at iSchool**, where I teach programming and technology to young learners.
 
-My teaching approach focuses on:
+### 📊 Teaching Impact
 
-* 🧩 Explaining programming concepts in a simple way
-* 💻 Learning through practical coding
-* 🚀 Building projects instead of relying only on theory
-* 🧠 Developing problem-solving skills
-* 👥 Encouraging students to experiment and learn independently
+> **600+ Students Taught**
 
-## Flutter Mentor — Ma'refa
+I focus on making programming simple, practical, and enjoyable through:
 
-I previously served as **Head of the Flutter Section at Ma'refa**, a volunteer team focused on helping students learn and develop their technical skills.
+* 🧩 Simple explanations of programming concepts
+* 💻 Hands-on coding sessions
+* 🚀 Project-based learning
+* 🧠 Problem-solving activities
+* 👥 Mentoring and supporting learners
+* 🎮 Making programming engaging for young students
 
-During my time there:
+---
 
-* 🚀 Created the team's first Flutter Camp
-* 👨‍🏫 Taught Flutter to around 30 students
-* 🧑‍💻 Mentored students during their projects
+## 🚀 Head of Flutter Section — Ma'refa
+
+Previously served as **Head of the Flutter Section at Ma'refa**.
+
+### Highlights
+
+* 🚀 Created and led the team's first Flutter Camp
+* 👨‍🏫 Taught and mentored around **30 students**
+* 🧑‍💻 Guided students through Flutter projects
 * 👥 Led the Flutter Section
-* 📚 Prepared technical learning content and practical sessions
+* 📚 Prepared technical learning content
+* 💻 Conducted practical Flutter sessions
 
 ---
 
@@ -195,32 +244,52 @@ During my time there:
 
 ---
 
-# 🎯 What I'm Currently Focused On
+# 🎯 Current Focus
 
-* 📱 Becoming a stronger **Flutter Developer**
-* 🏗️ Writing clean and maintainable code
-* 🧠 Improving software engineering practices
-* 🔌 Building applications with real-world APIs
-* 👨‍🏫 Improving my skills as a Coding Instructor
-* 📚 Learning new technologies and development practices
-* 🚀 Building and publishing more real-world projects
+* 📱 Advanced Flutter Development
+* 🏗️ Clean Architecture & scalable applications
+* 🧠 Software Engineering
+* 🔌 REST APIs & backend integration
+* 👨‍🏫 Programming Education
+* 🚀 Building real-world mobile applications
+* 📚 Continuous Learning
 
 ---
 
-# 📈 My Development Journey
+# 📊 GitHub Analytics
 
-I use GitHub to document my development journey, build projects, experiment with new technologies, and share what I learn.
+<div align="center">
 
-I'm always trying to improve — not only by writing more code, but by learning how to write **better, cleaner, and more maintainable code**.
+<img src="https://github-readme-stats.vercel.app/api?username=HassanNasser21&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HassanNasser21&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanNasser21&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
+
+</div>
 
 ---
 
 # 🤝 Let's Connect
 
-<p align="left">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/hassan-nasser-5aab34332/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/hassan.nasser.834317">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/hassan_nasser.0/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:hassanmsr03@gmail.com">
@@ -231,22 +300,14 @@ I'm always trying to improve — not only by writing more code, but by learning 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-# 📊 GitHub Analytics
+<div align="center">
 
-<p align="center">
+### 💙 Thanks for visiting my profile!
 
-<img src="https://github-readme-stats.vercel.app/api?username=HassanNasser21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+**Keep Learning • Keep Building • Keep Sharing 🚀**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanNasser21&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</p>
-
----
-
-## 💙 Thanks for visiting my profile!
-
-### Keep Learning • Keep Building • Keep Sharing 🚀
+</div>
