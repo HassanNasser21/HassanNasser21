@@ -43,7 +43,7 @@ I enjoy transforming ideas into real-world applications while writing clean, mai
 
 ---
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 <p align="left"> <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,python,php,mysql,git,github,vscode,androidstudio,figma,postman,linux" /> </p>
 
 Architecture & State Management: Cubit / BLoC · Clean Architecture · MVVM · Repository Pattern · SOLID Backend & APIs: REST APIs · Dio · Firebase · JSON · Shared Preferences
