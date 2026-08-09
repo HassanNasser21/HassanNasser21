@@ -48,6 +48,7 @@ I enjoy transforming ideas into real-world applications while writing clean, mai
 
 Architecture & State Management: Cubit / BLoC · Clean Architecture · MVVM · Repository Pattern · SOLID Backend & APIs: REST APIs · Dio · Firebase · JSON · Shared Preferences
 ---
+---
 
 # 🚀 Featured Projects
 
@@ -157,6 +158,7 @@ Previously served as **Head of the Flutter Section at Ma'refa**.
 * 💻 **Software Development Fundamentals** — Information Technology Institute (ITI)
 * 🇬🇧 **Teaching English as a Second Language** — American Egyptian Academy
 
+---
 
 # 📊 GitHub Analytics
 
