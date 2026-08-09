@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/HassanNasser21">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hassan+Nasser+%F0%9F%91%8B;Flutter+Developer+%F0%9F%93%B1;Coding+Instructor+at+iSchool+%F0%9F%91%A8%5D%E2%80%8D%F0%9F%92%BB;Computer+Science+Graduate+%F0%9F%8E%93;Keep+Learning+%E2%80%A2+Keep+Building+%E2%80%A2+Keep+Sharing+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hassan+Nasser+%F0%9F%91%8B;Flutter+Developer+%F0%9F%93%B1;Coding+Instructor+at+iSchool+%F0%9F%91%A8%5D%E2%80%8D%F0%9F%92%BB;Computer+Science+Graduate+%F0%9F%8E%93" alt="Typing SVG" />
 </a>
 
 <br>
@@ -260,9 +260,13 @@ Previously served as **Head of the Flutter Section at Ma'refa**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HassanNasser21&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170"/>
+<!-- GitHub Stats -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HassanNasser21&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=HassanNasser21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
+
+<!-- GitHub Streak -->
+
+<img src="https://streak-stats.demolab.com?user=HassanNasser21&theme=tokyonight&hide_border=true" width="48%"/>
 
 </div>
 
@@ -270,9 +274,12 @@ Previously served as **Head of the Flutter Section at Ma'refa**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanNasser21&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
+<!-- Top Languages -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanNasser21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
 
 </div>
+
 
 ---
 
